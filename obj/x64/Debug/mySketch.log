@@ -1,0 +1,11 @@
+﻿  AudioEngine.cpp
+  FoldedTowelMap.cpp
+  main.cpp
+  ofApp.cpp
+  ThomasSystem.cpp
+  WaveLibrary.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     Creating library bin\mySketch_debug.lib and object bin\mySketch_debug.exp
+  mySketch.vcxproj -> C:\Users\sahsa\Downloads\of_v0.12.1_vs_64_release\of_v0.12.1_vs_64_release\apps\myApps\mySketch\bin\mySketch_debug.exe
+  File not found - *.dll
+  0 File(s) copied
