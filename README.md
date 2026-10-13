@@ -1,2 +1,3 @@
 # chaotic-synth
-chaotic synthesis with many modifiable parameters, openframeworks
+chaotic synth(esis) with many modifiable parameters, openframeworks
+was tested and developed on Windows 11 Desktop
